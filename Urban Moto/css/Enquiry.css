@@ -1,0 +1,43 @@
+section{
+	background-color:#3399cc;
+}
+  
+.enquiry .row form .inputBox{
+	position: relative;
+	left: 32%;
+	 font-size: 20px;
+	display:block;
+
+  }
+  
+.enquiry .row form .inputBox input, .contact .row form textarea{
+	margin:1rem 0;
+	padding:1rem;
+	font-size: 20px;
+	color:#333;
+	background:#f7f7f7;
+	text-transform: none;
+	text-align: center;
+	border: 1.8px solid black;
+  }
+  
+
+  
+.enquiry input[type="submit"] {
+	  position: relative;
+	  left: 45.5%;
+	  text-align: center;
+	  width: 8%;
+	  background: #3399cc;
+	  color: #fff;
+	  padding: 0.6em 0;
+	  font-size: 1em;
+	  font-weight: bold;
+	  text-transform: uppercase;
+	  margin: 2em 0 0;
+	  letter-spacing: 5px;
+	  border-radius: 15px;
+  }
+.enquiry input[type="submit"]:hover{
+	  background:#fe9126;
+  }
